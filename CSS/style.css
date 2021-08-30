@@ -173,7 +173,13 @@ color: #7d7d7d;
     margin-top: 63px;
     margin-left: 30px;
   }
-   .head-txt{
+  .head-txt{
     margin-top: 150px;
+  }
+  .card-title{
+    text-align: center;
+  }
+  .card-text{
+    text-align: center;
   }
 }
